@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Online-shopping-website.github.io/static/css/main.b5664593.chunk.css",
+    "main.js": "/Online-shopping-website.github.io/static/js/main.b3c93f7a.chunk.js",
+    "main.js.map": "/Online-shopping-website.github.io/static/js/main.b3c93f7a.chunk.js.map",
+    "runtime-main.js": "/Online-shopping-website.github.io/static/js/runtime-main.318992b9.js",
+    "runtime-main.js.map": "/Online-shopping-website.github.io/static/js/runtime-main.318992b9.js.map",
+    "static/js/2.49b475fd.chunk.js": "/Online-shopping-website.github.io/static/js/2.49b475fd.chunk.js",
+    "static/js/2.49b475fd.chunk.js.map": "/Online-shopping-website.github.io/static/js/2.49b475fd.chunk.js.map",
+    "static/js/3.35440132.chunk.js": "/Online-shopping-website.github.io/static/js/3.35440132.chunk.js",
+    "static/js/3.35440132.chunk.js.map": "/Online-shopping-website.github.io/static/js/3.35440132.chunk.js.map",
+    "index.html": "/Online-shopping-website.github.io/index.html",
+    "static/css/main.b5664593.chunk.css.map": "/Online-shopping-website.github.io/static/css/main.b5664593.chunk.css.map",
+    "static/js/2.49b475fd.chunk.js.LICENSE.txt": "/Online-shopping-website.github.io/static/js/2.49b475fd.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.e8db7520.svg": "/Online-shopping-website.github.io/static/media/bars-solid.e8db7520.svg",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/Online-shopping-website.github.io/static/media/shopping-cart-solid.d146d6c3.svg",
+    "static/media/times-solid.ea7c95d7.svg": "/Online-shopping-website.github.io/static/media/times-solid.ea7c95d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.318992b9.js",
+    "static/js/2.49b475fd.chunk.js",
+    "static/css/main.b5664593.chunk.css",
+    "static/js/main.b3c93f7a.chunk.js"
+  ]
+}
