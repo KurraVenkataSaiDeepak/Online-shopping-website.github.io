@@ -1,0 +1,219 @@
+section .cart{
+    position: relative;
+    border: 1px solid #ccc;
+    
+}
+.amount span{
+    color: crimson;
+    margin-left: 0px;
+    font-size: large;
+    
+}
+.amount .count{
+    width: 20px;
+    height: 30px;
+    border: 1px solid #555;
+    outline: none;
+    background: transparent;
+    cursor: pointer;
+    text-align: center;
+}
+.amount{
+    
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.delete{
+    margin-left: 20px;
+    margin-top: 50px;
+    top:0;
+    right: 5px;
+    color: crimson;
+    cursor: pointer;
+    font-weight: 900;
+}
+.price1{
+    margin-right: -30px;
+}
+.price{
+    margin-right: -15px;
+}
+
+.total{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.total a{
+
+    text-decoration: none;
+    background: #333;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 10px 25px;
+}
+.total h3{
+    margin-right: 50px;
+    color: crimson;
+}
+.details1{
+    display: flex;
+}
+.details1 img{
+    
+    height: 150px;
+    width: 160px;
+    display: block;
+    
+    margin: 25px;
+}
+.details1 .box{
+    margin-top: 25px;
+    max-width: 500px;
+    min-width: 290px;
+    margin: 25px;
+}
+.details1  .row1{
+
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.details1 .row1 h2{
+    
+    margin-right: 0px;
+    letter-spacing: 2px;
+}
+.details1 .row1 span{
+    color: crimson;
+}
+
+.details1 p{
+    line-height: 1.5;
+    margin: 15px 0;
+}
+.details1 .cart{
+    background: #333;
+    color: rgba(203,202,203,255);
+    text-decoration: none;
+    padding: 10px 25px;
+    display: inline-block;
+}
+.shopping li{
+    
+    text-transform: uppercase;
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
+.xz li {
+    text-transform: uppercase;
+    display: inline;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 80px;
+}
+.xzs li {
+    
+    font-size: 0px;
+    
+}
+.xz{
+    padding: 15px;
+}
+.tlue{
+    background-color: #333;
+}
+
+.ffot{
+   
+    box-sizing: border-box;
+    box-shadow: #333;
+}
+.row{
+    width: 700px;
+    margin-left: 150px;
+    margin-top: 90px;
+    background-color: rgba(245,245,246,255);
+}
+#tutn{
+    color: white;
+    background-color: rgba(255,59,59,255)
+    ;
+}
+@media (max-width:670px){
+    .row{
+        margin-left: -10px;
+    }
+    .row h2{
+        font-size: large;
+    }
+    .row{
+        width: 300px;
+    }
+    .details1 {
+        display: inline;
+        
+        
+
+    }
+    .details1 .row1 h2{
+    
+        font-size: 15px;
+    }
+    
+    
+   
+    
+    .details1 {
+        font-size: small;
+        
+
+    }
+    
+    .xz{
+        display: none;
+    }
+    .delete{
+        
+        margin-top: -15px;
+    }
+    
+    
+    
+    .xzs li {
+        text-transform: uppercase;
+        display: inline;
+        font-weight: bold;
+        font-size: large;
+        margin-left: 80px;
+    }
+    
+    
+}
+@media (max-width:968px){
+    .row{
+        margin-left: -10px;
+        margin-bottom: 25px;
+    }
+}
+@media (max-width:691px){
+    
+}
+@media (max-width:442px){
+    
+    
+    
+    
+}
+
+
+
+
